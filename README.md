@@ -1,5 +1,8 @@
 # Awesomepy
 ## An awesome list of python tutorials for almost anything (at least in theory)
+PRs encouraged!
+
+
 ## Build your own AR app
 https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/
 
